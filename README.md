@@ -195,11 +195,8 @@ Improve the detection.
 
 ---
 
-## <div align="center">📈 Contribution Activity</div>
-
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cybernavin&bg_color=0D1117&color=00FF00&line=00D9FF&point=00FF00&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
