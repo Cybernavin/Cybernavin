@@ -202,3 +202,18 @@ Improve the detection.
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cybernavin&bg_color=0D1117&color=00FF00&line=00D9FF&point=00FF00&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
+<!-- FOOTER ANIMATION -->
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00FF00,50:66BB66,100:444444&section=footer&reversal=false" width="100%" alt="Animated green and gray wave footer"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1200&color=00FF00&center=true&vCenter=true&width=800&lines=The+quieter+you+become%2C+the+more+you+hear" alt="Animated footer quote"/>
+
+<br/>
+
+**Made with ❤️ by Abhinav Maurya**
+
+</div>
