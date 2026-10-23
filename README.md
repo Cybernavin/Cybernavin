@@ -149,39 +149,6 @@ I build practical security labs to understand how logs are collected, security e
 
 ---
 
-## `> cat soc-workflow.txt`
-
-```text
-┌───────────────────────────────────────┐
-│         SOC INVESTIGATION FLOW        │
-├───────────────────────────────────────┤
-│  01  Collect logs and telemetry       │
-│  02  Detect suspicious activity       │
-│  03  Correlate related security events│
-│  04  Validate evidence and severity   │
-│  05  Investigate and scope the alert  │
-│  06  Respond or escalate              │
-│  07  Document findings                │
-└───────────────────────────────────────┘
-```
-
-My approach is evidence-driven: validate the alert, investigate the context, document findings, and recommend an appropriate response instead of treating every alert as a confirmed incident.
-
----
-
-## `> cat learning-path.txt`
-
-- SIEM monitoring and detection engineering.
-- Windows authentication events and Sysmon telemetry.
-- Active Directory security investigations.
-- Cloud audit-log analysis and IAM detections.
-- Phishing investigation and IOC enrichment.
-- Incident triage and investigation documentation.
-
-**Hands-on learning:** TryHackMe · PortSwigger Web Security Academy
-
----
-
 ## `> ./career-goal.sh`
 
 My goal is to begin my professional career as a **SOC Analyst L1 or Security Operations Intern**, contributing to security monitoring, alert investigation, incident documentation, and threat detection while continuing to develop my blue-team skills.
