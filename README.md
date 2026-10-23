@@ -26,16 +26,16 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00D9FF&vCenter=true&width=250&lines=%3E+whoami" alt="whoami animated heading" />
 
-I am **Abhinav Maurya**, a Computer Science and Engineering student focused on Security Operations, SIEM monitoring, threat detection, and incident investigation.
+I am **Abhinav Maurya**, a Computer Science and Engineering student focused on **SOC operations, SIEM monitoring, threat detection, and incident investigation**.
 
-I build practical security labs to understand how logs are collected, security events are correlated, alerts are investigated, and response workflows are executed. I also develop Python-based tools for phishing investigation and threat-intelligence enrichment.
+I build hands-on security labs and Python-based tools to investigate suspicious activity, analyze security logs, enrich threat indicators, and document investigation findings.
 
-- 🛡️ **Focus:** SOC Analyst L1 and Security Operations internships
-- 🔍 **Blue Team:** SIEM monitoring, log analysis, alert triage, incident investigation
-- 🖥️ **Endpoint Security:** Windows Security Logs, Sysmon, Active Directory
-- ☁️ **Cloud Security:** AWS CloudTrail, IAM, Elastic SIEM
-- 🐍 **Automation:** Python, threat-intelligence APIs, investigation reporting
-- 🧪 **Security Practice:** TryHackMe and PortSwigger Web Security Academy
+- 🛡️ **Career Focus:** SOC Analyst L1 and Security Operations internships/Jobs
+- 🔎 **Blue Team:** Splunk, Elastic SIEM, log analysis, alert triage, and incident investigation
+- 🖥️ **Endpoint & Cloud Security:** Sysmon, Windows Security Logs, Active Directory, AWS CloudTrail
+- 🐍 **Security Automation:** Python, threat-intelligence APIs, phishing analysis, and investigation reporting
+
+**Current focus:** Building practical detection and investigation workflows that demonstrate how I approach security events in a SOC environment.
 
 ---
 
