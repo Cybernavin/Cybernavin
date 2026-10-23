@@ -1,16 +1,10 @@
-# <p align="center">Abhinav Maurya</p>
+# <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=SOC+Analyst+L1;SIEM+Monitoring+%7C+Threat+Detection;Incident+Response+%7C+Security+Operations;Blue+Team+%7C+Security+Automation" alt="SOC skills typing animation" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=400&size=50&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=1000&lines=ABHINAV+MAURYA" alt="ABHINAV MAURYA" />
 
-<p align="center">
-  <code>DETECT</code> &nbsp; → &nbsp; <code>INVESTIGATE</code> &nbsp; → &nbsp; <code>RESPOND</code>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=SOC+ANALYST+L1+%7C+SIEM;THREAT+DETECTION+%7C+INCIDENT+RESPONSE;BLUE+TEAM+%7C+SECURITY+OPERATIONS" alt="SOC Analyst skills" />
 
-<p align="center">
-  Aspiring SOC Analyst focused on SIEM monitoring, security event analysis, threat detection, and incident investigation.
-</p>
+</div>
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
