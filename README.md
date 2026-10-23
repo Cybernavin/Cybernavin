@@ -182,3 +182,23 @@ Improve the detection.
 **Building skills. Investigating threats. Strengthening security.**
 
 </div>
+
+## <div align="center">📊 GitHub Analytics</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cybernavin&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&include_all_commits=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cybernavin&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## <div align="center">📈 Contribution Activity</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cybernavin&bg_color=0D1117&color=00FF00&line=00D9FF&point=00FF00&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
