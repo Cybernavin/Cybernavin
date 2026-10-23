@@ -209,9 +209,9 @@ Improve the detection.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00FF00,50:66BB66,100:444444&section=footer&reversal=false" width="100%" alt="Animated green and gray wave footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:00FF00,50:66BB66,100:444444&section=footer" width="100%" alt="Green and gray animated wave"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1200&color=00FF00&center=true&vCenter=true&width=800&lines=The+quieter+you+become%2C+the+more+you+hear" alt="Animated footer quote"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=The+quieter+you+become%2C+the+more+you+hear" alt="The quieter you become, the more you hear"/>
 
 <br/>
 
