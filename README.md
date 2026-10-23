@@ -149,7 +149,7 @@ I build practical security labs to understand how logs are collected, security e
 
 ---
 
-## `> ./career-goal.sh`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00D9FF&vCenter=true&width=400&lines=%3E+.%2Fcareer-goal.sh" alt="Animated career goal heading" />
 
 My goal is to begin my professional career as a **SOC Analyst L1 or Security Operations Intern**, contributing to security monitoring, alert investigation, incident documentation, and threat detection while continuing to develop my blue-team skills.
 
@@ -157,7 +157,7 @@ I value practical learning, accurate analysis, clear documentation, and responsi
 
 ---
 
-## `> connect --with-me`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00D9FF&vCenter=true&width=430&lines=%3E+connect+--with-me" alt="Animated contact heading" />
 
 <div align="center">
 
