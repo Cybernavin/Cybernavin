@@ -1,187 +1,205 @@
-# <div align="center">
+<!-- ================= PROFILE HEADER ================= -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=400&size=50&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=1000&lines=ABHINAV+MAURYA" alt="ABHINAV MAURYA" />
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=SOC+ANALYST+L1+%7C+SIEM;THREAT+DETECTION+%7C+INCIDENT+RESPONSE;BLUE+TEAM+%7C+SECURITY+OPERATIONS" alt="SOC Analyst skills" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=400&size=50&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=1000&lines=ABHINAV+MAURYA" alt="Abhinav Maurya" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=25&duration=2500&pause=900&color=00FF00&center=true&vCenter=true&width=1000&lines=SOC+ANALYST+L1+%7C+BLUE+TEAM;SIEM+MONITORING+%7C+THREAT+DETECTION;INCIDENT+RESPONSE+%7C+SECURITY+OPERATIONS" alt="SOC Analyst skills" />
+
+<p>
+  <b>DETECT</b> &nbsp; | &nbsp; <b>INVESTIGATE</b> &nbsp; | &nbsp; <b>RESPOND</b>
+</p>
+
+<a href="https://github.com/Cybernavin">
+  <img src="https://img.shields.io/badge/GitHub-Cybernavin-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/abhinav-maurya00/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:am5166643@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  SYSTEM STATUS : LEARNING & BUILDING                         │
-│  FOCUS         : SECURITY OPERATIONS                         │
-│  ENVIRONMENT   : SIEM | WINDOWS | LINUX | CLOUD              │
-│  MISSION       : DETECT → INVESTIGATE → RESPOND              │
-└─────────────────────────────────────────────────────────────┘
-```
+---
 
-I am a Computer Science and Engineering student focused on **Security Operations, SIEM monitoring, threat detection, and incident investigation**.
+## `> whoami`
 
-I build hands-on security labs and Python-based tools to understand how security events are collected, analyzed, correlated, and investigated. My work includes endpoint telemetry, Active Directory security, cloud audit logs, and phishing email analysis.
+I am **Abhinav Maurya**, a Computer Science and Engineering student focused on Security Operations, SIEM monitoring, threat detection, and incident investigation.
 
-**Current objective:** Secure an entry-level SOC Analyst L1 or Security Operations internship where I can apply my technical skills and continue developing as a blue-team analyst.
+I build practical security labs to understand how logs are collected, security events are correlated, alerts are investigated, and response workflows are executed. I also develop Python-based tools for phishing investigation and threat-intelligence enrichment.
+
+- 🛡️ **Focus:** SOC Analyst L1 and Security Operations internships
+- 🔍 **Blue Team:** SIEM monitoring, log analysis, alert triage, incident investigation
+- 🖥️ **Endpoint Security:** Windows Security Logs, Sysmon, Active Directory
+- ☁️ **Cloud Security:** AWS CloudTrail, IAM, Elastic SIEM
+- 🐍 **Automation:** Python, threat-intelligence APIs, investigation reporting
+- 🧪 **Security Practice:** TryHackMe and PortSwigger Web Security Academy
 
 ---
 
-## `$ whoami` — About Me
+## `> cat skills.txt`
 
-- 🔍 Focused on SOC monitoring, alert triage, and incident investigation.
-- 🛡️ Building SIEM detection and security automation projects.
-- 🖥️ Working with Windows Security Logs, Sysmon, and Linux environments.
-- ☁️ Exploring AWS CloudTrail monitoring and cloud threat detection.
-- 🐍 Developing Python tools for phishing analysis and threat intelligence.
-- 🧪 Practicing web security and cybersecurity investigation in authorized labs.
+<div align="center">
+
+### SIEM & Security Monitoring
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic SIEM"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
+<img src="https://img.shields.io/badge/SPL%20%7C%20KQL-333333?style=for-the-badge" alt="SPL and KQL"/>
+
+### Endpoint & Network Security
+
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Sysmon-333333?style=for-the-badge" alt="Sysmon"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/>
+
+### Cloud Security & Automation
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Splunk_SOAR-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk SOAR"/>
+
+### Threat Intelligence & Web Security
+
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge" alt="VirusTotal"/>
+<img src="https://img.shields.io/badge/urlscan.io-333333?style=for-the-badge" alt="urlscan.io"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-EA4335?style=for-the-badge" alt="MITRE ATT&CK"/>
+
+</div>
 
 ---
 
-## `$ cat skills.txt` — Technical Skills
-
-| Domain | Tools & Technologies |
-|---|---|
-| SIEM & Log Analysis | Splunk Enterprise, SPL, Elastic SIEM, Elasticsearch, Kibana |
-| Endpoint Telemetry | Sysmon, Windows Security Logs, Windows Event IDs |
-| Security Operations | Alert Triage, Log Correlation, Incident Investigation, Threat Hunting |
-| Cloud Security | AWS CloudTrail, AWS IAM, Amazon S3, Amazon SQS |
-| Network Analysis | Wireshark, TCP/IP, DNS, HTTP |
-| Threat Intelligence | VirusTotal, urlscan.io, IOC Extraction and Enrichment |
-| Security Automation | Python, Splunk SOAR, PowerShell, Bash |
-| Operating Systems | Windows, Linux, Kali Linux |
-| Web Security | Burp Suite, OWASP Top 10, PortSwigger Web Security Academy |
-| Investigation Frameworks | MITRE ATT&CK |
-
----
-
-## `$ ls ./featured-projects`
+## `> ls ./security-projects`
 
 ### 01. Splunk SIEM & SOAR Threat Detection Lab
 
-**[View Repository](https://github.com/Cybernavin/splunk-siem-threat-detection)**
+[**View Repository →**](https://github.com/Cybernavin/splunk-siem-threat-detection)
 
-A home SOC lab focused on endpoint log collection, security monitoring, detection logic, and automated response workflows.
+A hands-on SOC lab for centralized log monitoring, suspicious authentication detection, and security response workflows.
 
-**Key work**
-- Collected and analyzed Windows and Linux security logs.
-- Investigated repeated RDP authentication failures using Windows Security Event ID `4625`.
-- Developed SPL searches and dashboards for suspicious authentication patterns.
-- Built Splunk SOAR playbooks for investigation and response workflows.
-- Explored suspicious IP enrichment and response actions using VirusTotal, Windows Firewall, and PowerShell.
+- Windows and Linux security log collection.
+- RDP authentication failure investigation using Windows Event ID `4625`.
+- SPL searches and dashboards for suspicious login patterns.
+- Splunk SOAR playbooks for investigation and response.
+- Suspicious IP enrichment and response workflows involving VirusTotal and Windows Firewall.
 
-**Stack:** Splunk Enterprise · Splunk SOAR · SPL · Sysmon · Windows · Linux
-
----
+**Technologies:** Splunk Enterprise, Splunk SOAR, SPL, Sysmon, Windows, Linux.
 
 ### 02. AI-Assisted Phishing Email Investigation Tool
 
-**[View Repository](https://github.com/Cybernavin/AI-Assisted-phishing-email-analysis-tool)**
+[**View Repository →**](https://github.com/Cybernavin/AI-Assisted-phishing-email-analysis-tool)
 
-A Python-based investigation tool that analyzes suspicious emails, enriches indicators with threat intelligence, and produces structured investigation reports.
+A Python-based SOC tool that analyzes suspicious emails and generates structured investigation reports.
 
-**Key work**
-- Parsed email content and analyzed message headers.
-- Evaluated SPF, DKIM, and DMARC authentication results.
-- Extracted URLs, domains, IP addresses, email addresses, and attachment hashes.
-- Integrated VirusTotal and urlscan.io for threat-intelligence enrichment.
-- Implemented evidence correlation, risk scoring, severity classification, and HTML reporting.
-- Integrated AI-assisted investigation summaries and osTicket incident-ticket creation.
+- Email parsing and header analysis.
+- SPF, DKIM, and DMARC authentication checks.
+- IOC extraction, including URLs, domains, IP addresses, and attachment hashes.
+- VirusTotal and urlscan.io threat-intelligence enrichment.
+- Evidence correlation, risk scoring, and HTML reports.
+- AI-assisted investigation summaries and osTicket ticket creation.
 
-**Stack:** Python · Gemini API · VirusTotal API · urlscan.io API · IOC Analysis · HTML Reporting · osTicket
+**Technologies:** Python, Gemini API, VirusTotal API, urlscan.io API, osTicket.
 
----
+### 03. Active Directory SOC Investigation Labs
 
-### 03. Active Directory SOC Investigation & Threat Detection Labs
+[**View Repository →**](https://github.com/Cybernavin/active-directory-soc-investigation-labs)
 
-**[View Repository](https://github.com/Cybernavin/active-directory-soc-investigation-labs)**
+A lab series focused on investigating credential access, suspicious authentication, lateral movement, and privilege escalation.
 
-A structured investigation lab series covering suspicious authentication, credential-access activity, lateral movement, and privilege-escalation scenarios in an Active Directory environment.
+- Analysis of Windows Security Logs and Sysmon events.
+- Investigation of potential LSASS access and Kerberos-related activity.
+- Analysis of SMB connections and remote service creation.
+- Splunk searches and dashboards for authentication and process activity.
+- Documented investigation workflows and detection logic.
 
-**Key work**
-- Investigated Windows authentication and remote-access events.
-- Analyzed Sysmon and Windows Security Logs for suspicious process activity.
-- Examined potential LSASS access, Kerberos-related activity, SMB connections, and remote service creation.
-- Developed Splunk searches and dashboards for investigation.
-- Documented detection logic, event IDs, investigation workflows, and attack techniques.
+**Technologies:** Active Directory, Windows Server 2022, Splunk, Sysmon, PowerShell.
 
-**Stack:** Active Directory · Windows Server 2022 · Splunk · Sysmon · PowerShell · SPL
+### 04. AWS CloudTrail Threat Detection & Elastic SIEM
 
----
+[**View Repository →**](https://github.com/Cybernavin/aws-cloudtrail-elastic-siem-detection-lab)
 
-### 04. AWS CloudTrail Threat Detection & Elastic SIEM Lab
+A cloud security lab for investigating AWS audit events and detecting suspicious IAM activity.
 
-**[View Repository](https://github.com/Cybernavin/aws-cloudtrail-elastic-siem-detection-lab)**
+- AWS CloudTrail log collection and analysis.
+- Cloud audit-log integration with Elastic SIEM.
+- KQL detection logic for potential IAM privilege escalation, CloudTrail log tampering, and S3 exposure.
+- Investigation of suspicious identity and permission changes.
+- Detection mapping to MITRE ATT&CK.
 
-A cloud security monitoring lab focused on analyzing AWS audit logs and investigating suspicious IAM activity.
-
-**Key work**
-- Collected and investigated AWS CloudTrail events.
-- Integrated cloud audit logs with an Elastic-based monitoring environment.
-- Developed KQL detections for potential IAM privilege escalation, CloudTrail log tampering, and S3 data exposure.
-- Investigated suspicious identity and permission changes.
-- Mapped detection scenarios to MITRE ATT&CK and documented investigation findings.
-
-**Stack:** AWS CloudTrail · AWS IAM · Amazon S3 · Amazon SQS · Elastic Agent · Elasticsearch · Kibana · KQL
+**Technologies:** AWS CloudTrail, IAM, Amazon S3, Amazon SQS, Elastic Agent, Elasticsearch, Kibana, KQL.
 
 ---
 
-## `$ cat investigation-workflow.txt`
-
-My approach to a SOC investigation:
+## `> cat soc-workflow.txt`
 
 ```text
-[ LOG COLLECTION ]
-        |
-        v
-[ ALERT DETECTION ]
-        |
-        v
-[ EVENT CORRELATION ]
-        |
-        v
-[ EVIDENCE VALIDATION ]
-        |
-        v
-[ INCIDENT TRIAGE ]
-        |
-        v
-[ RESPONSE / ESCALATION ]
-        |
-        v
-[ DOCUMENTATION ]
+┌───────────────────────────────────────┐
+│         SOC INVESTIGATION FLOW        │
+├───────────────────────────────────────┤
+│  01  Collect logs and telemetry       │
+│  02  Detect suspicious activity       │
+│  03  Correlate related security events│
+│  04  Validate evidence and severity   │
+│  05  Investigate and scope the alert  │
+│  06  Respond or escalate              │
+│  07  Document findings                │
+└───────────────────────────────────────┘
 ```
 
-The objective is to establish what happened, identify the supporting evidence, determine the severity and scope, and recommend an appropriate response.
+My approach is evidence-driven: validate the alert, investigate the context, document findings, and recommend an appropriate response instead of treating every alert as a confirmed incident.
 
 ---
 
-## `$ cat learning.txt` — Continuous Learning
+## `> cat learning-path.txt`
 
-Current areas of practice and development:
+- SIEM monitoring and detection engineering.
+- Windows authentication events and Sysmon telemetry.
+- Active Directory security investigations.
+- Cloud audit-log analysis and IAM detections.
+- Phishing investigation and IOC enrichment.
+- Incident triage and investigation documentation.
 
-- SIEM monitoring and SPL-based detection.
-- Windows authentication events and Sysmon investigation.
-- Active Directory attack detection.
-- Cloud audit-log analysis and IAM security.
-- Phishing investigation and threat-intelligence enrichment.
-- Incident triage, evidence correlation, and response documentation.
-
-**Practice platforms:** TryHackMe · PortSwigger Web Security Academy
+**Hands-on learning:** TryHackMe · PortSwigger Web Security Academy
 
 ---
 
-## `$ cat career-goal.txt`
+## `> ./career-goal.sh`
 
-I am seeking **SOC Analyst L1, Security Operations Intern, and junior security monitoring opportunities** where I can contribute to log analysis, alert investigation, detection engineering, and incident response.
+My goal is to begin my professional career as a **SOC Analyst L1 or Security Operations Intern**, contributing to security monitoring, alert investigation, incident documentation, and threat detection while continuing to develop my blue-team skills.
 
-I value evidence-based investigation, clear documentation, continuous learning, and responsible security testing.
+I value practical learning, accurate analysis, clear documentation, and responsible security testing.
 
 ---
 
-### `>_ Let's connect`
+## `> connect --with-me`
 
-- **GitHub:** [Cybernavin](https://github.com/Cybernavin)
-- **LinkedIn:** [Abhinav Maurya](https://www.linkedin.com/in/abhinav-maurya00/)
-- **Email:** am5166643@gmail.com
+<div align="center">
+
+<a href="https://github.com/Cybernavin">
+  <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abhinav-maurya00/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:am5166643@gmail.com">
+  <img src="https://img.shields.io/badge/Email-am5166643%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
 
 ```text
-[ END OF FILE ]
-Stay curious. Investigate the evidence. Improve the detection.
+Stay curious.
+Investigate the evidence.
+Improve the detection.
 ```
+
+**Building skills. Investigating threats. Strengthening security.**
+
+</div>
