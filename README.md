@@ -76,64 +76,76 @@ I build practical security labs to understand how logs are collected, security e
 
 ---
 
-## `> ls ./security-projects`
+## 🚀 Featured Projects
 
-### 01. Splunk SIEM & SOAR Threat Detection Lab
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[**View Repository →**](https://github.com/Cybernavin/splunk-siem-threat-detection)
+### 🛡️ Splunk SIEM & SOAR Lab
 
-A hands-on SOC lab for centralized log monitoring, suspicious authentication detection, and security response workflows.
+[![Splunk SIEM](https://github-readme-stats.vercel.app/api/pin/?username=Cybernavin&repo=splunk-siem-threat-detection&theme=dark&hide_border=true)](https://github.com/Cybernavin/splunk-siem-threat-detection)
 
-- Windows and Linux security log collection.
-- RDP authentication failure investigation using Windows Event ID `4625`.
-- SPL searches and dashboards for suspicious login patterns.
-- Splunk SOAR playbooks for investigation and response.
-- Suspicious IP enrichment and response workflows involving VirusTotal and Windows Firewall.
+**Focus:** SIEM monitoring, alert investigation, and response automation.
 
-**Technologies:** Splunk Enterprise, Splunk SOAR, SPL, Sysmon, Windows, Linux.
+- Windows Security Logs and Sysmon
+- SPL detections for suspicious logins
+- Splunk SOAR response workflows
 
-### 02. AI-Assisted Phishing Email Investigation Tool
+</td>
+<td width="50%" valign="top">
 
-[**View Repository →**](https://github.com/Cybernavin/AI-Assisted-phishing-email-analysis-tool)
+### 📧 Phishing Investigation Tool
 
-A Python-based SOC tool that analyzes suspicious emails and generates structured investigation reports.
+[![Phishing Tool](https://github-readme-stats.vercel.app/api/pin/?username=Cybernavin&repo=AI-Assisted-phishing-email-analysis-tool&theme=dark&hide_border=true)](https://github.com/Cybernavin/AI-Assisted-phishing-email-analysis-tool)
 
-- Email parsing and header analysis.
-- SPF, DKIM, and DMARC authentication checks.
-- IOC extraction, including URLs, domains, IP addresses, and attachment hashes.
-- VirusTotal and urlscan.io threat-intelligence enrichment.
-- Evidence correlation, risk scoring, and HTML reports.
-- AI-assisted investigation summaries and osTicket ticket creation.
+**Focus:** Automated phishing email investigation.
 
-**Technologies:** Python, Gemini API, VirusTotal API, urlscan.io API, osTicket.
+- SPF, DKIM, and DMARC analysis
+- IOC extraction and threat intelligence
+- Risk scoring and HTML reports
 
-### 03. Active Directory SOC Investigation Labs
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[**View Repository →**](https://github.com/Cybernavin/active-directory-soc-investigation-labs)
+### 🏢 Active Directory SOC Labs
 
-A lab series focused on investigating credential access, suspicious authentication, lateral movement, and privilege escalation.
+[![Active Directory Labs](https://github-readme-stats.vercel.app/api/pin/?username=Cybernavin&repo=active-directory-soc-investigation-labs&theme=dark&hide_border=true)](https://github.com/Cybernavin/active-directory-soc-investigation-labs)
 
-- Analysis of Windows Security Logs and Sysmon events.
-- Investigation of potential LSASS access and Kerberos-related activity.
-- Analysis of SMB connections and remote service creation.
-- Splunk searches and dashboards for authentication and process activity.
-- Documented investigation workflows and detection logic.
+**Focus:** Windows domain security investigations.
 
-**Technologies:** Active Directory, Windows Server 2022, Splunk, Sysmon, PowerShell.
+- Authentication and credential-access events
+- Sysmon and Windows Event Logs
+- Lateral movement investigation
 
-### 04. AWS CloudTrail Threat Detection & Elastic SIEM
+</td>
+<td width="50%" valign="top">
 
-[**View Repository →**](https://github.com/Cybernavin/aws-cloudtrail-elastic-siem-detection-lab)
+### ☁️ AWS CloudTrail & Elastic SIEM
 
-A cloud security lab for investigating AWS audit events and detecting suspicious IAM activity.
+[![AWS CloudTrail Lab](https://github-readme-stats.vercel.app/api/pin/?username=Cybernavin&repo=aws-cloudtrail-elastic-siem-detection-lab&theme=dark&hide_border=true)](https://github.com/Cybernavin/aws-cloudtrail-elastic-siem-detection-lab)
 
-- AWS CloudTrail log collection and analysis.
-- Cloud audit-log integration with Elastic SIEM.
-- KQL detection logic for potential IAM privilege escalation, CloudTrail log tampering, and S3 exposure.
-- Investigation of suspicious identity and permission changes.
-- Detection mapping to MITRE ATT&CK.
+**Focus:** Cloud audit monitoring and IAM threat detection.
 
-**Technologies:** AWS CloudTrail, IAM, Amazon S3, Amazon SQS, Elastic Agent, Elasticsearch, Kibana, KQL.
+- AWS CloudTrail investigations
+- Elastic SIEM and KQL detections
+- Potential privilege-escalation analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Top Languages
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybernavin&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+</div>
 
 ---
 
