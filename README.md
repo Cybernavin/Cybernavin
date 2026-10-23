@@ -1,7 +1,7 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=CYBERNAVIN;%24+whoami;SOC+Analyst+L1;Blue+Team+%7C+Threat+Detection" alt="Cybernavin animated introduction" />
+# <p align="center">Abhinav Maurya</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=SIEM+Monitoring+%7C+Incident+Response;Windows+Logs+%7C+Sysmon+%7C+Splunk;Threat+Investigation+%7C+Security+Automation" alt="SOC analyst skills animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=SOC+Analyst+L1;SIEM+Monitoring+%7C+Threat+Detection;Incident+Response+%7C+Security+Operations;Blue+Team+%7C+Security+Automation" alt="SOC skills typing animation" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Aspiring SOC Analyst L1 | Security Operations | Blue Team</b>
+  Aspiring SOC Analyst focused on SIEM monitoring, security event analysis, threat detection, and incident investigation.
 </p>
 
 ```text
