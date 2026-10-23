@@ -39,7 +39,7 @@ I build practical security labs to understand how logs are collected, security e
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00FF00&vCenter=true&width=350&lines=%3E+cat+skills.txt" alt="cat skills.txt animated heading" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00D9FF&vCenter=true&width=350&lines=%3E+cat+skills.txt" alt="cat skills.txt animated heading" />
 
 <div align="center">
 
