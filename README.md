@@ -207,12 +207,21 @@ Improve the detection.
 
 ---
 
+
+<!-- Green & Gray Profile Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:66BB66,100:444444&height=150&section=footer&reversal=false" width="100%" alt="Green and gray wave footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:888888,50:66BB66,100:00FF00&height=150&section=footer"
+    width="100%"
+    alt="Green and gray wave footer"
+  />
+
+  <h2>🛡️ No System Is SaFE 🛡️</h2>
+
+  <p>
+    <strong>Made with ❤️ by Abhinav Maurya</strong>
+  </p>
 
 </div>
 
-**Made with ❤️ by Abhinav Maurya**
-
-</div>
