@@ -1,7 +1,16 @@
-# `>_ Cybernavin`
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=CYBERNAVIN;%24+whoami;SOC+Analyst+L1;Blue+Team+%7C+Threat+Detection" alt="Cybernavin animated introduction" />
 
-### Abhinav Maurya
-**Aspiring SOC Analyst L1 | Security Operations | Threat Detection & Incident Response**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=SIEM+Monitoring+%7C+Incident+Response;Windows+Logs+%7C+Sysmon+%7C+Splunk;Threat+Investigation+%7C+Security+Automation" alt="SOC analyst skills animation" />
+</p>
+
+<p align="center">
+  <code>DETECT</code> &nbsp; → &nbsp; <code>INVESTIGATE</code> &nbsp; → &nbsp; <code>RESPOND</code>
+</p>
+
+<p align="center">
+  <b>Aspiring SOC Analyst L1 | Security Operations | Blue Team</b>
+</p>
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
