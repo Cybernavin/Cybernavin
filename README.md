@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00FF00&vCenter=true&width=250&lines=%3E+whoami" alt="whoami animated heading" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00D9FF&vCenter=true&width=250&lines=%3E+whoami" alt="whoami animated heading" />
 
 I am **Abhinav Maurya**, a Computer Science and Engineering student focused on Security Operations, SIEM monitoring, threat detection, and incident investigation.
 
